@@ -142,11 +142,12 @@ h2{
     text-align: left;
 }
 
-.foot {
-    position: fixed;
-    position: bottom;
-
+.footer {
+    position:sticky;
+    left: 0;
+    bottom: 0;
     width: 100%;
-    background-color: rgb(26, 16, 16);
+    background-color: rgb(24, 23, 23);
     color: white;
     text-align: center;
+ } 
