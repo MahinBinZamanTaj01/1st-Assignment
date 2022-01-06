@@ -1,41 +1,100 @@
 body{
     font-family: 'PT Serif', serif;
     margin: 0px;
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
 }
 .mis{
     color: rgb(94, 114, 23);
 }
-.vl{
-    border-left: 5px darkorange;
-    height: 10px;
-}
+
 h1{
-    margin: 30px;
+    margin: 25px;
     font-size: 40px;
+    border-left: 5px solid;
 }
 p{
-    margin: 32px;
+    margin: 21px;
+    margin-top: 25px;
 }
 .top {
-        width: 35%;
+        width: 39%;
         float: left;
         margin: 70px;
         margin-top: 50px;
+        margin-right: 50px;
 }
 .top img{
-        width: 250px;
+        width: 270px;
         float: right;
-        margin: 70px;
+        margin: 90px;
         margin-top: 40px ;
+        
 }
 .link-button{
     color: white;
     text-decoration: none;
-    background-image: linear-gradient(orange, blue);
-    padding: 10px 40px;
-    margin: 30px;
-    padding-left: 5px;
+    background-image: linear-gradient(orange, maroon );
+    padding: 9px 15px;
+    margin: 20px;
+    margin-bottom: 60px;
     border-radius: 5px;
     text-align: center;
-
+}
+.vl{
+    border-style: left solid;
+    border-radius: px; 
+    padding-left: 11px;
+    border-color: rgb(3, 133, 35);
+    height: 110px;  
+}
+h2{
+    text-align:center;
+    font-size: 45px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#div4{
+    size: 50px;
+    background-color: rgb(149, 149, 236);
+    width: 30%;
+    float: left;
+    height: auto;
+    text-align: center;
+    border: 50px;
+    border-radius: 15px;
+    padding-left: 9px;
+    margin:5px 20px 7px 15px;
+    font-size: 13px;
+    box-sizing: border-box;
+    
+}
+#div5{
+    size: 50px;
+    background-color: rgb(165, 241, 165);
+    width: 30%;
+    float:left;
+    height: auto;
+    margin:5px 15px 7px 15px;
+    text-align: center;
+    border: 50px;
+    border-radius: 15px;
+    font-size: 13px;
+    box-sizing: border-box;
+    
+}
+#div6{
+    size: 50px;
+    background-color:rgb(133, 187, 133);
+    width: 30%;
+    float: left;
+    height: auto;
+    text-align: center;
+    border: 50px;
+    font-size: 10px;
+    border-radius: 15px;
+    padding-right: 9px;
+    margin:5px 15px 7px 15px;
+    font-size: 13px;
+    box-sizing: border-box;
+    
 }
