@@ -98,3 +98,55 @@ h2{
     box-sizing: border-box;
     
 }
+
+.mid {
+    width: 39%;
+    float:left ;
+    margin: 70px;
+    margin-top: 50px;
+    margin-right: 50px;
+}
+.mid img{
+    width: 350px;
+    float: right;
+    margin: 70px 30px 30px 25px;
+    border-radius: 13px;
+}
+
+.last{
+    width: 39%;
+    float: left;
+    margin: 70px;
+    margin-top: 50px;
+    margin-right: 50px;
+
+}
+.last img{
+    width: 270px;
+        float: right;
+        margin: 90px;
+        margin-top: 40px ;
+}
+
+.vll{
+    text-align: center ;
+   
+}
+.vvl{
+    text-align: center;
+}
+.vv{
+    text-align: center;
+}
+.vll{
+    text-align: left;
+}
+
+.foot {
+    position: fixed;
+    position: bottom;
+
+    width: 100%;
+    background-color: rgb(26, 16, 16);
+    color: white;
+    text-align: center;
