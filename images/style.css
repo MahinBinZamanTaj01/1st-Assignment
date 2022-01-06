@@ -1,0 +1,25 @@
+body{
+    font-family: 'PT Serif', serif;
+    margin: 0px;
+}
+h1{
+    margin: 30px;
+}
+p{
+    margin: 30px;
+}
+.top {
+        width: 50%;
+        float: left;
+
+}
+.top img{
+        width: 50px;
+        
+}
+.link-button{
+    color: darkgrey;
+    text-decoration: none;
+    background-image: linear-gradient(orange, blue);
+
+}
