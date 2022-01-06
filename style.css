@@ -1,0 +1,41 @@
+body{
+    font-family: 'PT Serif', serif;
+    margin: 0px;
+}
+.mis{
+    color: rgb(94, 114, 23);
+}
+.vl{
+    border-left: 5px darkorange;
+    height: 10px;
+}
+h1{
+    margin: 30px;
+    font-size: 40px;
+}
+p{
+    margin: 32px;
+}
+.top {
+        width: 35%;
+        float: left;
+        margin: 70px;
+        margin-top: 50px;
+}
+.top img{
+        width: 250px;
+        float: right;
+        margin: 70px;
+        margin-top: 40px ;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, blue);
+    padding: 10px 40px;
+    margin: 30px;
+    padding-left: 5px;
+    border-radius: 5px;
+    text-align: center;
+
+}
